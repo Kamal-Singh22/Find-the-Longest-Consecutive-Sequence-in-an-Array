@@ -12,4 +12,4 @@ Expand the sequence forward (num + 1, num + 2, ...) and keep track of its length
 Update the longestStreak whenever a longer sequence is found.
 
 Time Complexity: O(n), since each number is visited once.
-Space Complexity: O(n), for storing elements in a HashSet.
+Space Complexity: O(n), for storing elements in a HashSet......
